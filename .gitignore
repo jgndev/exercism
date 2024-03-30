@@ -19,3 +19,10 @@
 
 # Ignore macOS specific directories that get generated
 .DS_Store
+
+# Exercism
+.exercism
+
+# Gradle
+.gradle
+gradle/*
