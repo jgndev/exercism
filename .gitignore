@@ -27,3 +27,9 @@
 .gradle
 gradle/*
 **/gradle/
+
+# .NET
+**/bin/
+bin/*
+**/obj/
+obj/*
