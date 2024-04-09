@@ -1,6 +1,6 @@
 # Hello World
 
-Welcome to Hello World on Exercism's C# Track.
+Welcome to Hello World on Exercism's Rust Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
@@ -20,16 +20,36 @@ If everything goes well, you will be ready to fetch your first real exercise.
 
 [hello-world]: https://en.wikipedia.org/wiki/%22Hello,_world!%22_program
 
+In the Rust track, tests are run using the command `cargo test`.
+
 ## Source
 
 ### Created by
 
-- @robkeim
+- @EduardoBautista
 
 ### Contributed to by
 
+- @ashleygwilliams
+- @ClashTheBunny
+- @coriolinus
+- @cwhakes
+- @dvoytik
+- @EduardoBautista
+- @efx
 - @ErikSchierboom
-- @j2jensen
+- @hydhknn
+- @IanWhitney
+- @ijanos
+- @kytrinyx
+- @lutostag
+- @nfiles
+- @petertseng
+- @regnerjr
+- @rofrol
+- @stringparser
+- @xakon
+- @ZapAnton
 
 ### Based on
 
