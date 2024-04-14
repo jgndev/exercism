@@ -33,3 +33,10 @@ gradle/*
 bin/*
 **/obj/
 obj/*
+
+# C++
+**/build/
+**/cmake-build-debug/
+
+# Exercism
+**/.exercism/
