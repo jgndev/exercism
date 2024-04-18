@@ -38,5 +38,11 @@ obj/*
 **/build/
 **/cmake-build-debug/
 
+# C
+**/test-framework/
+**/tests.out.dSYM/
+tests.out
+
 # Exercism
 **/.exercism/
+
