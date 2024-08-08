@@ -18,8 +18,11 @@
 
 # Ignore python cache directories
 **/__pycache__/
+**/.pytest/
 **/*.pyc
 
+## Exercism
+**/.exercism/
 
 # Ignore macOS specific directories that get generated
 .DS_Store
