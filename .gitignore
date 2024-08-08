@@ -16,6 +16,10 @@
 **/out/
 **/tmp/
 
+# Ignore python cache directories
+**/__pycache__/
+**/*.pyc
+
 
 # Ignore macOS specific directories that get generated
 .DS_Store
