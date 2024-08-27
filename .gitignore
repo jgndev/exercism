@@ -10,6 +10,10 @@
 **/node_modules/
 **/vendor/
 
+# Ignore CLion build directories
+**/build/
+**/cmake-build-debug/
+
 # Ignore build outputs and temporary files and directories
 **/dist/
 **/build/
