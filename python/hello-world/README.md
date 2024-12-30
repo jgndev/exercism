@@ -1,6 +1,6 @@
 # Hello World
 
-Welcome to Hello World on Exercism's C# Track.
+Welcome to Hello World on Exercism's Python Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Instructions
@@ -24,12 +24,22 @@ If everything goes well, you will be ready to fetch your first real exercise.
 
 ### Created by
 
-- @robkeim
+- @michaelem
 
 ### Contributed to by
 
-- @ErikSchierboom
-- @j2jensen
+- @behrtam
+- @cmccandless
+- @Dog
+- @hebertjulio
+- @ikhadykin
+- @kytrinyx
+- @N-Parsons
+- @NobbZ
+- @pheanex
+- @skeskali
+- @Sukhj1nder
+- @tqa236
 
 ### Based on
 
