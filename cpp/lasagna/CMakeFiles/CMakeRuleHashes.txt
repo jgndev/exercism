@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-6240abdafe445ad9e1f491324a30dcb2 CMakeFiles/test_lasagna
