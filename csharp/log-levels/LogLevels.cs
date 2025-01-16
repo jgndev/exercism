@@ -3,17 +3,19 @@ using System;
 static class LogLine
 {
     public static string Message(string logLine)
-    {
-        throw new NotImplementedException("Please implement the (static) LogLine.Message() method");
-    }
+        => logLine.Split(':')[1].Trim();
+
 
     public static string LogLevel(string logLine)
     {
-        throw new NotImplementedException("Please implement the (static) LogLine.LogLevel() method");
+        // char position after the leading left bracket '['
+        var startIndex = logLine.IndexOf('[') + 1;
+        // char position before the closing right bracket ']'
+        var endIndex = logLine.IndexOf(']') - 1;
+        // take a substring from startIndex to endIndex and lowercase it
+        return logLine.Substring(startIndex, endIndex).ToLower();
     }
 
     public static string Reformat(string logLine)
-    {
-        throw new NotImplementedException("Please implement the (static) LogLine.Reformat() method");
-    }
+        => $"{Message(logLine)} ({LogLevel(logLine)})";
 }
